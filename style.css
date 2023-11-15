@@ -1,0 +1,37 @@
+body{
+    background-color: #f8f8f8;
+}
+
+#form-container{
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: .5px 10px 15px rgba(0, 0,0, 0.2);
+    margin-top: 40px;
+}
+
+#form-container h2{
+    font-weight: 900;
+}
+
+#link-container{
+    margin-top: 20px;
+    margin-left: -15px;
+}
+
+#link-container a:hover{
+    color: #6c63ff;
+}
+
+label{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input{
+    padding: 10px;
+}
+
+#button{
+    margin-top: 10px;
+    
+}
