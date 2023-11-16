@@ -35,3 +35,20 @@ input{
     margin-top: 10px;
     
 }
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    #form-container h2{
+        font-weight: 900;
+        font-size: 20px;
+    }
+
+    #link-container{
+        margin-top: 20px;
+        margin-left: -15px;
+        margin-bottom: 20px;
+    }
+
+   img{
+    width: 60%;
+   }
+}
